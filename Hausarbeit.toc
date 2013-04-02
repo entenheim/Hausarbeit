@@ -1,0 +1,9 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Einleitung}{4}{section.1}
+\contentsline {section}{\numberline {2}Was ist Medienkompetenz}{4}{section.2}
+\contentsline {section}{\numberline {3}Welche Medien nutzen Jugendliche}{4}{section.3}
+\contentsline {section}{\numberline {4}Vorteile der Mediennutzung}{4}{section.4}
+\contentsline {section}{\numberline {5}Gefahren der Mediennutzung}{5}{section.5}
+\contentsline {section}{\numberline {6}Projekte zur St\IeC {\"a}rkung von Medienkompetenz}{5}{section.6}
+\contentsline {section}{\numberline {7}Fazit}{5}{section.7}
+\contentsline {section}{Literatur}{6}{section*.2}
